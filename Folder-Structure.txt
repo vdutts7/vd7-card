@@ -18,7 +18,7 @@ src/
   │     └── card.css -> here you can change the card styles. Colors, sizes, fonts, etc.
 
   <!--
-	"Hey there! I'm Vivek.
+	"me@vd7.io
 
 	Here is my GitHub {https://github.com/vdutts7}. Give a Star to the template and share it so others can see and use it."
  -->
